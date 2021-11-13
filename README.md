@@ -1,3 +1,8 @@
 # Parkinson_disease_detection-
 
 
+Parkinson's disease is a neurological movement disorder. Common symptoms include tremor, slowness of movement, stiff muscles, unsteady walk and balance and coordination problems. There is no cure for the disease. Most patients can maintain a good quality of life with medications.
+Diagnosis of Parkinson's disease (PD) is commonly based on medical observations and assessment of clinical signs, including the characterization of a variety of motor symptoms. However, traditional diagnostic approaches may suffer from subjectivity as they rely on the evaluation of movements that are sometimes subtle to human eyes and therefore difficult to classify, leading to possible misclassification. In the meantime, early non-motor symptoms of PD may be mild and can be caused by many other conditions.
+Therefore, these symptoms are often overlooked, making diagnosis of PD at an early stage challenging. To address these difficulties and to refine the diagnosis and assessment procedures of PD, machine learning methods have been implemented for the classification of PD and healthy controls or patients with similar clinical presentations (e.g., movement disorders or other Parkinsonian syndromes).
+To provide a comprehensive overview of data modalities and machine learning methods that have been used in the diagnosis and differential diagnosis of PD
+XGBoost is a new Machine Learning algorithm designed with speed and performance in mind. XGBoost stands for extreme gradient boosting and is based on decision trees. In this project, we will import the XGBClassifier from the xgboost library.
